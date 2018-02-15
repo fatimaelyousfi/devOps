@@ -1,0 +1,22 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "bonjour",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatimaelyousfi/devOps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatimaelyousfi/devOps/issues"
+  },
+  "homepage": "https://github.com/fatimaelyousfi/devOps#readme",
+  "devDependencies": {
+    "should": "^13.2.1"
+  }
+}
